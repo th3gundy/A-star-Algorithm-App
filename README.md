@@ -1,4 +1,8 @@
-12*12’lik satranç tahtasında kullanıcının seçtiği iki nokta arasındaki en kısa yolu A* algoritması
+12x12â€™lik satranÃ§ tahtasÄ±nda kullanÄ±cÄ±nÄ±n seÃ§tiÄŸi iki nokta arasÄ±ndaki en kÄ±sa yolu A* arama algoritmasÄ±
 ile bulan uygulama.
 
-Yapay taş, satrançtaki at gibi (L şeklinde) hareket ediyor ancak L’nin uzun bacağı 2 değil 4 kare alınmıştır.
+Yapay taÅŸ, satranÃ§taki at gibi (L ÅŸeklinde) hareket ediyor ancak Lâ€™nin uzun bacaÄŸÄ± 2 deÄŸil 4 kare alÄ±nmÄ±ÅŸtÄ±r.
+
+![Alt text](https://github.com/th3gundy/A-star-Algorithm-App/blob/master/pic/4.JPG "SS 1")
+
+![Alt text](https://github.com/th3gundy/A-star-Algorithm-App/blob/master/pic/3.jpg "SS 1")
